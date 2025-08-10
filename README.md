@@ -1,5 +1,7 @@
 # MERN Thinkboard
 
+**Live Demo:** [https://mern-thinkboard-einc.onrender.com/](https://mern-thinkboard-einc.onrender.com/)
+
 A collaborative note-taking and task management app built using the **MERN stack** (MongoDB, Express, React, Node.js) with real-time updates and responsive UI.
 
 ---
@@ -19,11 +21,13 @@ A collaborative note-taking and task management app built using the **MERN stack
 ## 🛠 Tech Stack
 
 **Frontend**
+
 - React.js (Functional Components + Hooks)
 - Tailwind CSS
 - Axios (API calls)
 
 **Backend**
+
 - Node.js
 - Express.js
 - MongoDB + Mongoose
@@ -33,6 +37,7 @@ A collaborative note-taking and task management app built using the **MERN stack
 ## ⚙️ Installation & Setup
 
 1️⃣ **Clone the repository**
+
 ```bash
 git clone https://github.com/YogeshGurjar200/Mern-thinkboard.git
 cd Mern-thinkboard
@@ -69,3 +74,4 @@ npm install
 npm run dev
 
 
+```
